@@ -35,3 +35,15 @@ Brazilian e-commerce public dataset by Olist containing customer, order, product
 ## Outcome
 This project provides insights into customer behavior, delivery delays, and sales performance to support data-driven decision-making.
 
+## Dashboard Previews
+
+### Excel Dashboard – Sales Overview
+![Excel Dashboard](olist_excel_dashboard.png)
+
+### Power BI Dashboard – Interactive KPIs
+![Power BI Dashboard](olist_powerbi_dashboard.png)
+
+### Tableau Dashboard – Visual Storytelling
+![Tableau Dashboard](olist_tableau_dashboard.png)
+
+
